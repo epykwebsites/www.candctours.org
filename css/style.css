@@ -93,7 +93,7 @@ textarea.form-control {
   position: absolute;
   top: 0;
   width: 100%;
-  padding: 60px 0;
+  padding: 25px 0;
   z-index: 2;
 }
 
@@ -351,7 +351,7 @@ textarea.form-control {
 }
 
 .section {
-  padding: 7em 0;
+  padding: 3em 0;
 }
 
 @media (max-width: 991.98px) {
