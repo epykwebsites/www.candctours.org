@@ -58,7 +58,7 @@ h1, h2, h3, h4, h5 {
 .btn.btn-primary {
   background: none;
   border-width: 2px;
-  border-color: #037ae3;
+  border-color: #0388fc;
 }
 
 .btn.btn-primary:hover {
@@ -1014,9 +1014,7 @@ textarea.form-control {
 }
 
 .contact-section .contact-info p a {
-
-  color: #0388fc ;
-
+  color: #0388fc;
 }
 
 .contact-section form.bg-white {
